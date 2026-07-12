@@ -30,7 +30,7 @@ function Index() {
         </div>
 
         <a
-          href="https://rwarded.zordzone.com/"
+          href="https://rwardedon.zordzone.com/"
           className="block w-full rounded-full bg-gradient-to-b from-[#22c55e] to-[#16a34a] py-4 text-white font-semibold tracking-widest uppercase text-sm shadow-[0_0_40px_rgba(34,197,94,0.5)] hover:shadow-[0_0_60px_rgba(34,197,94,0.7)] transition-shadow"
         >
           Continue
